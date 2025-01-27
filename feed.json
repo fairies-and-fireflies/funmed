@@ -2,10 +2,10 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Renaissance Health",
     "description": "",
-    "home_page_url": "http://renaissancehealthgroup.org",
-    "feed_url": "http://renaissancehealthgroup.org/feed.json",
+    "home_page_url": "https://renaissancehealthgroup.org",
+    "feed_url": "https://renaissancehealthgroup.org/feed.json",
     "user_comment": "",
-    "icon": "http://renaissancehealthgroup.org/media/website/Screenshot-2024-01-11-at-4.01.45-PM.png",
+    "icon": "https://renaissancehealthgroup.org/media/website/Screenshot-2024-01-11-at-4.01.45-PM.png",
     "author": {
         "name": "Renaissance Health"
     },

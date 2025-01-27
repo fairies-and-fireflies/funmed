@@ -2,7 +2,7 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "a0b5ae391b6b2aea61e0137f987703ba"
+        "md5": "9c572749c908ad422f2782fe397d79d7"
     },
     {
         "path": "about",
@@ -12,7 +12,7 @@
     {
         "path": "/about/index.html",
         "type": "file",
-        "md5": "d34110bac5614658a576687c163ace95"
+        "md5": "bf1cb2217e03e6ad0afd773463061ffd"
     },
     {
         "path": "assets",
@@ -182,7 +182,7 @@
     {
         "path": "/authors/renaissance-health/index.html",
         "type": "file",
-        "md5": "e4c45d6f048486608590b5b95fe7b65b"
+        "md5": "36b35495b149a952c10f577701e6cad4"
     },
     {
         "path": "become-a-patient",
@@ -192,7 +192,7 @@
     {
         "path": "/become-a-patient/index.html",
         "type": "file",
-        "md5": "75b474fc35a39886a83f9464aeb32dfb"
+        "md5": "00e88688e62a2e27a143e83fd02aea4b"
     },
     {
         "path": "care-plan-options",
@@ -202,7 +202,7 @@
     {
         "path": "/care-plan-options/index.html",
         "type": "file",
-        "md5": "c02bc9d8485ce9cb487ecbefba2e4ab8"
+        "md5": "6c1fcfdbf026b5ae2ec5723113861e81"
     },
     {
         "path": "contact-us-2",
@@ -212,7 +212,7 @@
     {
         "path": "/contact-us-2/index.html",
         "type": "file",
-        "md5": "f2306b2f90989c62694772be6de6e232"
+        "md5": "160c59769fce5e30574085b6bf550587"
     },
     {
         "path": "faqs",
@@ -222,22 +222,22 @@
     {
         "path": "/faqs/index.html",
         "type": "file",
-        "md5": "0299b47165fb858996c89fb570cc1aae"
+        "md5": "3f6de00790d3d9448e39e96c1b40c3a5"
     },
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "0b8c037cd44f9d4788ebcff64d5edbfa"
+        "md5": "4da7026792c358f9a42c29187581b747"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "057a38784565625ec295da7435271578"
+        "md5": "a64c8a6e20f6e994fb6187bdaa5c299e"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "5cc378b741d17a8e3a3c1873132c6728"
+        "md5": "084215d90ef234b3bb8be56d9ce89cfc"
     },
     {
         "path": "intro",
@@ -247,7 +247,7 @@
     {
         "path": "/intro/index.html",
         "type": "file",
-        "md5": "aa2b39712ac4a847ecb08b24c861c6d7"
+        "md5": "b09d0dc1c8b7f791aee37956400bc53a"
     },
     {
         "path": "media",
@@ -263,6 +263,146 @@
         "path": "/media/files/RHG_logo_name.png",
         "type": "file",
         "md5": "0c283af25e8cbda6d90de6218c2281a6"
+    },
+    {
+        "path": "media/posts",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/1",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/1/JoyAmy-51.jpg",
+        "type": "file",
+        "md5": "0b64ce807595dcfd021c57b933825825"
+    },
+    {
+        "path": "media/posts/1/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/1/responsive/JoyAmy-51-2xl.jpg",
+        "type": "file",
+        "md5": "f07093d6383f47ebf7d17544ba662420"
+    },
+    {
+        "path": "/media/posts/1/responsive/JoyAmy-51-lg.jpg",
+        "type": "file",
+        "md5": "ae8341a405e7069f6bad56017821932c"
+    },
+    {
+        "path": "/media/posts/1/responsive/JoyAmy-51-md.jpg",
+        "type": "file",
+        "md5": "e29d5a4a535ad76dc70165663d343da3"
+    },
+    {
+        "path": "/media/posts/1/responsive/JoyAmy-51-sm.jpg",
+        "type": "file",
+        "md5": "565d2f6a28f9c3ae0e56b0ce9814d006"
+    },
+    {
+        "path": "/media/posts/1/responsive/JoyAmy-51-xl.jpg",
+        "type": "file",
+        "md5": "296e91aab575ee1f4bdd92bbef550c2e"
+    },
+    {
+        "path": "/media/posts/1/responsive/JoyAmy-51-xs.jpg",
+        "type": "file",
+        "md5": "f0aaac187b0952c1b6d39ef9ca1a5cda"
+    },
+    {
+        "path": "media/posts/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/2/JoyAmy-39.jpg",
+        "type": "file",
+        "md5": "a7c7c202d509f4eade112ac8cd9e7964"
+    },
+    {
+        "path": "media/posts/2/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/2/responsive/JoyAmy-39-2xl.jpg",
+        "type": "file",
+        "md5": "93dcfb7f5482b37dc8cbccf0016e4a60"
+    },
+    {
+        "path": "/media/posts/2/responsive/JoyAmy-39-lg.jpg",
+        "type": "file",
+        "md5": "29ba0a0c48eedca5d1901d5ec90b7804"
+    },
+    {
+        "path": "/media/posts/2/responsive/JoyAmy-39-md.jpg",
+        "type": "file",
+        "md5": "71e439beb18536ada656b4418ef590d2"
+    },
+    {
+        "path": "/media/posts/2/responsive/JoyAmy-39-sm.jpg",
+        "type": "file",
+        "md5": "4c2ceda39c039b05fd33356354aaadcd"
+    },
+    {
+        "path": "/media/posts/2/responsive/JoyAmy-39-xl.jpg",
+        "type": "file",
+        "md5": "d485c2bc996f66c1ecf664c1adbc0be8"
+    },
+    {
+        "path": "/media/posts/2/responsive/JoyAmy-39-xs.jpg",
+        "type": "file",
+        "md5": "1767571224b322aeee303b1f67b98661"
+    },
+    {
+        "path": "media/posts/3",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/3/JoyAmy-48.jpg",
+        "type": "file",
+        "md5": "b3f750049e66d45086a82c09ebcf2c4c"
+    },
+    {
+        "path": "media/posts/3/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/3/responsive/JoyAmy-48-2xl.jpg",
+        "type": "file",
+        "md5": "9b31d96b08863c5caf4cbcc3311c84eb"
+    },
+    {
+        "path": "/media/posts/3/responsive/JoyAmy-48-lg.jpg",
+        "type": "file",
+        "md5": "a276467a7b7d8076a852c8086c2e26ed"
+    },
+    {
+        "path": "/media/posts/3/responsive/JoyAmy-48-md.jpg",
+        "type": "file",
+        "md5": "1a38be8ce7f14b3b46556182f215d4b9"
+    },
+    {
+        "path": "/media/posts/3/responsive/JoyAmy-48-sm.jpg",
+        "type": "file",
+        "md5": "5fd9cfa0e695301ef978e82eb6a64161"
+    },
+    {
+        "path": "/media/posts/3/responsive/JoyAmy-48-xl.jpg",
+        "type": "file",
+        "md5": "cdf7373a5d87025ac4fd719d30806d04"
+    },
+    {
+        "path": "/media/posts/3/responsive/JoyAmy-48-xs.jpg",
+        "type": "file",
+        "md5": "57f2da6990166136cdf6e62da0f78963"
     },
     {
         "path": "media/website",
@@ -382,7 +522,7 @@
     {
         "path": "/mission/index.html",
         "type": "file",
-        "md5": "563f5b439d6b857793f9ae4b435dcb21"
+        "md5": "e1a62c6e6687d6725d813e10e87f524b"
     },
     {
         "path": "pricing-backup",
@@ -392,12 +532,12 @@
     {
         "path": "/pricing-backup/index.html",
         "type": "file",
-        "md5": "083e99d80ae765b1706e8b3bfdfccd5b"
+        "md5": "b30682a912576318c259207514ec1f8d"
     },
     {
         "path": "robots.txt",
         "type": "file",
-        "md5": "a33166ce8a93f8c7ee61b56ba2626334"
+        "md5": "0ee6ad22a8b49190687cf3c43319da8a"
     },
     {
         "path": "services",
@@ -407,7 +547,7 @@
     {
         "path": "/services/index.html",
         "type": "file",
-        "md5": "1df8e589f273cdd97dce58d7c30e0e09"
+        "md5": "9b8053bab3b87a4873d8281594933403"
     },
     {
         "path": "services-backup",
@@ -417,12 +557,12 @@
     {
         "path": "/services-backup/index.html",
         "type": "file",
-        "md5": "b9702d2a2cc269f50fefe3b1e289bd5c"
+        "md5": "a31db0c027362d9d4fe94637f06b3c57"
     },
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "206f08c3a9ffdab43e607ef0427e40bf"
+        "md5": "74163771f39e1766ca2fad984c4cb3fb"
     },
     {
         "path": "sitemap.xsl",
@@ -437,6 +577,6 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "cd37e1e74f08e7b729b69f8cafc0cf36"
+        "md5": "18cf844ca774e9f5acb5f64b156a1990"
     }
 ]
