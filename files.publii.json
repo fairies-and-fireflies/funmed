@@ -12,7 +12,7 @@
     {
         "path": "/about/index.html",
         "type": "file",
-        "md5": "17da855d634df2d64f746ea916425300"
+        "md5": "db6c2ee0d29cc154372fd3dc4747e391"
     },
     {
         "path": "assets",
@@ -320,6 +320,11 @@
         "md5": false
     },
     {
+        "path": "/media/posts/2/BadilloFamily-2.png",
+        "type": "file",
+        "md5": "0946529c9bfe9fa141fbb7ce612aa7b2"
+    },
+    {
         "path": "/media/posts/2/JoyAmy-39.jpg",
         "type": "file",
         "md5": "a7c7c202d509f4eade112ac8cd9e7964"
@@ -328,6 +333,36 @@
         "path": "media/posts/2/responsive",
         "type": "directory",
         "md5": false
+    },
+    {
+        "path": "/media/posts/2/responsive/BadilloFamily-2-2xl.png",
+        "type": "file",
+        "md5": "5123be3def931c15b7e19f9884a6f05a"
+    },
+    {
+        "path": "/media/posts/2/responsive/BadilloFamily-2-lg.png",
+        "type": "file",
+        "md5": "5123be3def931c15b7e19f9884a6f05a"
+    },
+    {
+        "path": "/media/posts/2/responsive/BadilloFamily-2-md.png",
+        "type": "file",
+        "md5": "5123be3def931c15b7e19f9884a6f05a"
+    },
+    {
+        "path": "/media/posts/2/responsive/BadilloFamily-2-sm.png",
+        "type": "file",
+        "md5": "980ce4d78254aebaed6a58e9abe9b0ec"
+    },
+    {
+        "path": "/media/posts/2/responsive/BadilloFamily-2-xl.png",
+        "type": "file",
+        "md5": "5123be3def931c15b7e19f9884a6f05a"
+    },
+    {
+        "path": "/media/posts/2/responsive/BadilloFamily-2-xs.png",
+        "type": "file",
+        "md5": "80264d59d45bc9056882b0d6c0695903"
     },
     {
         "path": "/media/posts/2/responsive/JoyAmy-39-2xl.jpg",
@@ -562,7 +597,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "fe7444e7fbb299e5e8a6d1c582be2700"
+        "md5": "bc44dab481011bb4b990e8b502a57a5c"
     },
     {
         "path": "sitemap.xsl",
