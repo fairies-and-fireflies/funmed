@@ -2,7 +2,7 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "a3ba162a0993880cc856eda51852a265"
+        "md5": "4d58c1e337c7d056dee15736ff0793cc"
     },
     {
         "path": "about",
@@ -12,7 +12,7 @@
     {
         "path": "/about/index.html",
         "type": "file",
-        "md5": "4aa7912901a716dff41816e5f1b3871e"
+        "md5": "a48ce76aa800704747a2a8d87fe03101"
     },
     {
         "path": "assets",
@@ -182,7 +182,7 @@
     {
         "path": "/authors/renaissance-health/index.html",
         "type": "file",
-        "md5": "7df7ebbb145e6dca3b4113232735c7af"
+        "md5": "b327a9e6b36f81bb7d40e867d9250780"
     },
     {
         "path": "become-a-patient",
@@ -192,7 +192,7 @@
     {
         "path": "/become-a-patient/index.html",
         "type": "file",
-        "md5": "574bf3663a9042b7a83dd253ff294dba"
+        "md5": "08d4a50338b35cae6acd7610152b9c89"
     },
     {
         "path": "care-plan-options",
@@ -202,7 +202,7 @@
     {
         "path": "/care-plan-options/index.html",
         "type": "file",
-        "md5": "3c682ccc9473f1cd3587295db3cb7521"
+        "md5": "e65c50dd866078a5605ec27effe128eb"
     },
     {
         "path": "contact-us-2",
@@ -212,7 +212,7 @@
     {
         "path": "/contact-us-2/index.html",
         "type": "file",
-        "md5": "77a4b47937a5d5b1a156997665f96faa"
+        "md5": "c2d7d3f3dc4ee76b8792c927e037f0ef"
     },
     {
         "path": "faqs",
@@ -222,7 +222,7 @@
     {
         "path": "/faqs/index.html",
         "type": "file",
-        "md5": "cfa6b3780137f6f8d313053e1b592d6c"
+        "md5": "d87a0660fb7c9c9c8451c2d9a6884caa"
     },
     {
         "path": "feed.json",
@@ -237,7 +237,7 @@
     {
         "path": "index.html",
         "type": "file",
-        "md5": "c1894380d32cb56ffc760d74c805bbfc"
+        "md5": "e2c0350806d389a190cf1bed54eed56d"
     },
     {
         "path": "intro",
@@ -247,7 +247,7 @@
     {
         "path": "/intro/index.html",
         "type": "file",
-        "md5": "36dc3d3d2ab666c4920a9daa54cba132"
+        "md5": "8a31dc3303a2b385203f626db10c7e20"
     },
     {
         "path": "media",
@@ -557,7 +557,7 @@
     {
         "path": "/mission/index.html",
         "type": "file",
-        "md5": "c52cfd7c56269595532693e2db95e114"
+        "md5": "4411e294288106352bfa67fd258daca3"
     },
     {
         "path": "pricing-backup",
@@ -567,7 +567,7 @@
     {
         "path": "/pricing-backup/index.html",
         "type": "file",
-        "md5": "a2a87cf7ccfb4849726f43f2c32acb9c"
+        "md5": "3ec8d172a85020af1dbbf12ce66e5709"
     },
     {
         "path": "robots.txt",
@@ -582,7 +582,7 @@
     {
         "path": "/services/index.html",
         "type": "file",
-        "md5": "d3a54a4b859caba48c15655525a643ac"
+        "md5": "beae13935ade9a20eaf499131877e5cf"
     },
     {
         "path": "services-backup",
@@ -592,12 +592,12 @@
     {
         "path": "/services-backup/index.html",
         "type": "file",
-        "md5": "dccbb7f09aace8796c872b3b78c23c68"
+        "md5": "3eef3f23b0f1638f7f7ef46345458c12"
     },
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "c95e30948978a22880eae72175dcdef2"
+        "md5": "c08d471fc70a18960d4753b2479fc69f"
     },
     {
         "path": "sitemap.xsl",
@@ -612,6 +612,6 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "78d8bec385d97f021a4e50c06404af60"
+        "md5": "a2889aaec8997e097796a1305133342a"
     }
 ]
